@@ -3,7 +3,7 @@ name: physical-beat-integration
 description: Add physical comedy elements (gestures, expressions, movement) to verbal comedy material, enhancing humor through body language
 license: MIT
 metadata:
-  version: 1.0.4683
+  version: 1.0.4684
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
